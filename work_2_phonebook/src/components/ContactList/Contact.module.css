@@ -1,0 +1,9 @@
+.button {
+  background-color: red;
+  border: 1px solid red;
+  outline: none;
+}
+
+.list {
+  list-style: none;
+}
