@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/ContactList/Contact.module.css"],"names":[],"mappings":"AAAA,uBACE,oBAAqB,CACrB,oBAAqB,CACrB,YACF,CAEA,qBACE,eACF","file":"main.e792c2a8.chunk.css","sourcesContent":[".button {\r\n  background-color: red;\r\n  border: 1px solid red;\r\n  outline: none;\r\n}\r\n\r\n.list {\r\n  list-style: none;\r\n}\r\n"]}
